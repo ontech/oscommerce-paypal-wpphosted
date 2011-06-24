@@ -1,0 +1,11 @@
+PayPal Website Payments Pro Hosted Solution - osCommerce Plugin
+============================================================
+
+Allows using PayPal's hosted credit card processing page in osCommerce as an iframe hosted payment flow.
+
+Installation
+============
+
+Download as zip (click Downloads button as above) then extract into the root directory of your osCommerce distribution.
+
+Then go to Modules -> Payments and configure Website Payments Pro - Hosted Solution as per your requirements.
