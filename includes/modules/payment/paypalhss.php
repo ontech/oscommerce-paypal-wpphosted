@@ -114,7 +114,7 @@ class paypalhss {
 			}
 	    }
 	    
-	    if(MODULE_PAYMENT_PAYPALHSS_CURRENCY == 'Selected Currency')
+	    if(MODULE_PAYMENT_PAYPALHSS_CURRENCY == 'Selected Currency' || MODULE_PAYMENT_PAYPALHSS_CURRENCY == 'Transaction Currency')
 	    {
 	    	$hsscurrency = $order->info['currency'];
 	    }
